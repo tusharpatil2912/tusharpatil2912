@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://techtush.in)
+[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](https://techtush.in)
 <h1 align="center">Hi 👋, I'm Tushar Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNmMThmMTM2OTQ4NmUxOTg2NmE1MDY0MGMyZTRiNjJmZDcwOWE5NiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/tusharpatil2912/tusharpatil2912/blob/main/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpatil2912&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpatil2912" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tusharpatil2912" target="blank"><img src="https://img.shields.io/twitter/follow/tusharpatil2912?logo=twitter&style=for-the-badge" alt="tusharpatil2912" /></a> </p>
